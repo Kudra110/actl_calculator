@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "228517866897",
+    "firebase_url": "https://roti-7b4f8-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "roti-7b4f8",
+    "storage_bucket": "roti-7b4f8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:228517866897:android:d2fec2f96d6990e0d4fe30",
+        "android_client_info": {
+          "package_name": "com.example.actl_price"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDyF08IiOkr7j2Pi8bl8POhwlA8IWPNioU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:228517866897:android:f3b06228de8d5918d4fe30",
+        "android_client_info": {
+          "package_name": "com.example.cortion"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDyF08IiOkr7j2Pi8bl8POhwlA8IWPNioU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
